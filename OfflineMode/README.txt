@@ -2,7 +2,7 @@
 Contributors: Zorex
 Donate link: http://blog.zorex.info/?page_id=144
 Tags: maintenance, offline, OfflineMode, construction, splash
-Requires at least:
+Requires at least: 2.3.1
 Tested up to: 2.6.3
 Stable tag: 1.0.0b
 
